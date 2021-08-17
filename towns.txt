@@ -2,6 +2,6 @@ vizag
 banglore
 hyderabad
 delhi
-pune
-kolkata
-chennai
+punjab
+orissa
+mysore
